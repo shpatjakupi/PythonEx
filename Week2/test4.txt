@@ -1,0 +1,11 @@
+c:\Users\minma\Documents\Python assignments\Exercise2.ipynb
+c:\Users\minma\Documents\Python assignments\Exercise2_CLI.py
+c:\Users\minma\Documents\Python assignments\Exercises2.py
+c:\Users\minma\Documents\Python assignments\test.txt
+c:\Users\minma\Documents\Python assignments\test2.txt
+c:\Users\minma\Documents\Python assignments\test3.txt
+c:\Users\minma\Documents\Python assignments\test4.txt
+c:\Users\minma\Documents\Python assignments\utils.py
+c:\Users\minma\Documents\Python assignments\utilstest.ipynb
+c:\Users\minma\Documents\Python assignments\__pycache__\Exercises2.cpython-37.pyc
+c:\Users\minma\Documents\Python assignments\__pycache__\utils.cpython-37.pyc
